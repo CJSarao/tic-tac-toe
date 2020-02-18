@@ -1,5 +1,13 @@
 Mon projet de tic-tac-toe du tutoriel sur le site de REACT
 
+Améliorations redux: 
+
+Créer reducer
+Créer les actions
+Connecter le component react/redux
+
+  Algorithmie
+  
   Les prochains objectifs sont :
   
     1. Display the location for each move in the format (col, row) in the move history  list.
